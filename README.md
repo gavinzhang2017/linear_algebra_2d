@@ -1,1 +1,1 @@
-# linear_algebra_2d
+# Linear Algebra on the Plane
